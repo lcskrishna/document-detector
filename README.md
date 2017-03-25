@@ -8,3 +8,6 @@ The algorithm presented above automatically detects a document inside an image i
 
 The basic idea of this algorithm is to pre-process the image and apply Canny Edge Detector and Hough Transform and applying some post processing
 to it to get our desired results.
+
+How to Run:
+1) To run the algorithm just open the project in matlab and run auto_crop. This gives us the results from the given dataset.
